@@ -2,7 +2,7 @@
 
 ## 🔹 プロフィール
 - **名前:** 吉岡　峻佑
-- **GitHub:** [GitHub Profile Link]
+- **GitHub:** [https://github.com/magatsumi7]
 - **スキル:** Python, etc.
 
 ## 🔹 これまでのプロジェクト
