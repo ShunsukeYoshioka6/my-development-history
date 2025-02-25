@@ -12,8 +12,9 @@
 - **リポジトリ:** https://github.com/ShunsukeYoshioka6/fluid_simulation.git
 
 ## 🔹 学習中の技術
+大学の講義で以下の技術を学習し、現在は独自に復習・再学習を進めています。
 - 強化学習（Reinforcement Learning）
-- ニューラルネットワーク
+- ニューラルネットワーク（Neural Networks）
 
 
 ## 🔹 目標
